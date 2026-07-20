@@ -26,13 +26,9 @@ The core philosophy behind Streaks is reliability and performance. By implementi
 
 ## Screenshots
 
-| Home | Statistics |
-|:---:|:---:|
-| ![Home Screen Placeholder](https://via.placeholder.com/250x500?text=Home+Screen) | ![Statistics Placeholder](https://via.placeholder.com/250x500?text=Statistics+Screen) |
-
-| Calendar | Settings |
-|:---:|:---:|
-| ![Calendar Placeholder](https://via.placeholder.com/250x500?text=Calendar+Screen) | ![Settings Placeholder](https://via.placeholder.com/250x500?text=Settings+Screen) |
+<div align="center">
+  <img src="assets/screenshot.jpg" alt="Streaks Application Screenshots" width="100%"/>
+</div>
 
 ---
 
