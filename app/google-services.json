@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631299946111",
+    "project_id": "streak-app-2bddc",
+    "storage_bucket": "streak-app-2bddc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631299946111:android:ff13f2d94a5faa685f714a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631299946111-kbgckjemqhj6gvbr0iofcjckm1bj1eki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrUvBhRE2IXNqSVioFbcetJSMEV51YR_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631299946111-kbgckjemqhj6gvbr0iofcjckm1bj1eki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
